@@ -1,0 +1,26 @@
+{
+  "name": "gag",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ktamas58/gag#readme",
+  "bugs": {
+    "url": "https://github.com/ktamas58/gag/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktamas58/gag.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.1",
+    "quick.db": "^9.1.7"
+  }
+}
